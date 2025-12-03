@@ -5,7 +5,11 @@
         "image_type": 2051,
         "manufacturer_id": 4880,
         "changelog": "",
-        "checksum": "sha3-256:030d13f513183567780126df7fc949d5b5f3e42fdc07b980fbedb6088c58a2b3"
+        "checksum": "sha3-256:030d13f513183567780126df7fc949d5b5f3e42fdc07b980fbedb6088c58a2b3",
+
+        // If your devices cannot be distinguished except by their model or manufacturer names, include one or both keys
+        "manufacturer_names": ["AL001", "AEOTEC"],
+        "model_names": ["ZGA003"],
     },
     {
         "binary_url": "https://raw.githubusercontent.com/Aeotec-ccheng/aeotecZigbeeProducts/main/ZigbeeOTAUpdates/Pico_Shutter_V1.0.8.ota",
@@ -13,7 +17,11 @@
         "image_type": 31748,
         "manufacturer_id": 4880,
         "changelog": "",
-        "checksum": "sha3-256:6d687bae31752aa9b96d14c3a3b4075de8332788a6dd20fdd47c551eed372d20"
+        "checksum": "sha3-256:6d687bae31752aa9b96d14c3a3b4075de8332788a6dd20fdd47c551eed372d20",
+
+        // If your devices cannot be distinguished except by their model or manufacturer names, include one or both keys
+        "manufacturer_names": ["AL001", "AEOTEC"],
+        "model_names": ["ZGA004"],
     },
     {
         "binary_url": "https://raw.githubusercontent.com/Aeotec-ccheng/aeotecZigbeeProducts/main/ZigbeeOTAUpdates/Pico_Switch_V1.0.6.ota",
@@ -21,7 +29,11 @@
         "image_type": 2050,
         "manufacturer_id": 4880,
         "changelog": "",
-        "checksum": "sha3-256:1f346751c3220d076f3938f9db7bff1b88dfbbea88b552ed1aaf93187306eb7a"
+        "checksum": "sha3-256:1f346751c3220d076f3938f9db7bff1b88dfbbea88b552ed1aaf93187306eb7a",
+
+        // If your devices cannot be distinguished except by their model or manufacturer names, include one or both keys
+        "manufacturer_names": ["AL001", "AEOTEC"],
+        "model_names": ["ZGA002"],
     },
     {
         "binary_url": "https://raw.githubusercontent.com/Aeotec-ccheng/aeotecZigbeeProducts/main/ZigbeeOTAUpdates/Range_Extender_Zi_V1.0.3.ota",
@@ -29,6 +41,11 @@
         "image_type": 0,
         "manufacturer_id": 4880,
         "changelog": "",
-        "checksum": "sha3-256:350c16b203fd0b6c8b7dcb64d244332f5070d8aca78cfc118877613fe28d3f0e"
+        "checksum": "sha3-256:350c16b203fd0b6c8b7dcb64d244332f5070d8aca78cfc118877613fe28d3f0e",
+
+        // If your devices cannot be distinguished except by their model or manufacturer names, include one or both keys
+        "manufacturer_names": ["AL001", "AEOTEC"],
+        "model_names": ["WG001-Z01", "ZGA001"],
     }
 ]
+
