@@ -8,7 +8,7 @@
         "checksum": "sha3-256:350c16b203fd0b6c8b7dcb64d244332f5070d8aca78cfc118877613fe28d3f0e",
         "manufacturer_names": ["AL001", "AEOTEC"],
         "model_names": ["ZGA001", "WG001-Z01"]
-    }
+    },
     {
         "binary_url": "https://raw.githubusercontent.com/Aeotec-ccheng/aeotecZigbeeProducts/main/ZigbeeOTAUpdates/Pico_Switch_V1.0.6.ota",
         "file_version": 262,
@@ -38,8 +38,9 @@
         "checksum": "sha3-256:6d687bae31752aa9b96d14c3a3b4075de8332788a6dd20fdd47c551eed372d20",
         "manufacturer_names": ["AL001", "AEOTEC"],
         "model_names": ["ZGA004"]
-    },
+    }
 ]
+
 
 
 
